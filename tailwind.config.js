@@ -6,6 +6,17 @@ module.exports = {
         'xxl': '20rem',
         'mxl': '12rem'
       },
+      spacing: {
+        "10%": "10%",
+        "25%": "25%",
+        "50%": "50%",
+        "75%": "75%",
+        "sm": "640px",
+        "md": "768px",
+        "lg": "1024px",
+        "xl": "1280px",
+        "2xl": "1536px"
+      },
       colors: {
         transparent: 'transparent',
         current: 'currentColor',

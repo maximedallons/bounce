@@ -12,4 +12,9 @@
     .app{
         @apply w-full h-full bg-anthracite
     }
+
+    .player::-webkit-media-controls-play-button,
+    .player::-webkit-media-controls-panel {
+        @apply bg-neutral-200
+    }
 }
